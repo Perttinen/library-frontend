@@ -2,7 +2,6 @@ import Select from 'react-select'
 import { useState } from 'react'
 
 const Authors = (props) => {
-
   const [name,setName] = useState('')
   const [year, setYear] = useState('')
 
